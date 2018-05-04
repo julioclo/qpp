@@ -1,0 +1,407 @@
+---
+title: "Verbal Lexical Frequency and DOM among Heritage Speakers of Spanish"
+subtitle: "Sub-title here"
+author: "Esther Hur"
+date: "Rutgers University </br> `r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["rutgers", "rutgers-fonts"]
+    nature:
+      beforeInit: "http://www.jvcasillas.com/ru_xaringan/js/ru_xaringan.js"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+class: center
+
+# Who are Heritage Speakers?
+
+![](https://s-i.huffpost.com/gen/3891632/images/n-BILINGUAL-628x314.jpg)
+
+
+---
+#### Heritage Speakers advantages and variability
+--
+
+- Advantages over age-and-proficiency matched L2 learners
+
+--
+
+#### Variability
+
+--
+
+- Gender agreement (Montrul, Foote & Perpiñan, 2008)
+
+--
+
+- Preterite and imperfect use (Silva-Corvalán, 1994; Montrul, 2002; Montrul & 
+  Perpiñan,  2011) 
+
+--
+
+- Subjunctive mood morphology (Giancaspro, 2017; Montrul, 2009; Perez-Cortés, 2016).
+
+--
+
+- .blue[Differential Object Marking as expressed by ‘a’(Montrul 2004; Montrul and Bowles,    
+ 2009; Montrul & Sanchez-Walker]
+ 
+--
+
+.pull-left[
+
+#### Incomplete Acquisition (Montrul 2002, 2009)
+
+#### Attrition (Polinsky, 2006)
+
+]
+
+--
+
+.pull-right[
+
+#### The Activation Approach (Putnam & Sanchez, 2013)
+
+]
+
+---
+class: inverse, center, middle
+
+# Differential Object Marking
+
+---
+
+![](Aissen.png)
+
+--
+
+- Expressed with 'a'. There are several conditions that determine the DOM in Spanish. It is related with animacy and specificity.
+
+--
+
+
+Marked Object | Unmarked Object 
+------------- | ------------- | ------------- | -------------      
++ animate  | + animate   |  - animate  |  - animate  
++ specific    | - specific  |  + specific |  - specific 
+
+
+--
+
+.pull-left[
+
+1) Cuid-o             a     la niña
+
+	 Take care-1.S.PRS (DOM) the girl
+	 
+	 'I'm taking care of the girl']
+	 
+--
+
+2) Cuid-     o      una niña
+
+ 	 Take care-1.S.PRS a girl
+ 		           
+	'I'm taking care of a girl'
+		          
+--
+
+(3)    Cuid-    o          el carro de mi hermano
+
+	   	 Take care-1.S.PRS   the car  of my brother
+	   	 
+		  'I'm taking care of my brother's car']
+
+
+
+---
+
+class: inverse, center, middle
+
+# Previous Studies on Spanish DOM of Heritage Speakers
+
+---
+
+--
+
+“DOM omission with animate noun phrase” (Montrul, 2004)
+
+--
+
+“Omission and incorrect use of the DOM” (Montrul and Bowles, 2009)
+
+--
+
+“Attrition of DOM in adult immigrants” (Montrul & Sanchez-Walker, 2013;
+ 	Montrul, Bhatt & Girju, 2015).
+ 	
+--
+
+### Incomplete Acquisition (Montrul, 2009)
+
+--
+
+.pull-left[
+
+- However Advs. HS always produce more than Int. HS and Low HS. (Montrul and Bowles, 2009)
+
+- No difference of grammaticality in the receptive knowledge for Low HS (Montrul and Bowles, 2009).
+
+- Greater variability in the DOM use for  Int.HS  than Adv. HS (Montrul & Sanchez-Walker, 2013).]
+
+--
+.pull-right[# How much input is sufficient for a "Complete Acquisition?"
+
+#There is a need for a principled approach.]
+
+
+---
+class: inverse, center, middle
+
+# Theoretical Framework
+
+---
+background-image: url(https://s3-us-west-2.amazonaws.com/prodengblogs/assets/2016/01/brain-1132x670.png)
+background-size: 300px
+background-position: 50% 90%
+
+# Activation Approach (Putnam and Sanchez, 2013)
+
+Stages | Activation
+------------- | -------------    
+1 Stage  | Transfer or re-assemble of some FFs from the L2 grammar to L2 PF and semantic features     
+2 Stage  | Transfer or re-assembly of massive sets fo FFs from the L2 to the L2 PF and semantic features. More activation of L2 for production. 
+3 Stage | Exhibit difficulties in activatic PF and semantic features in the L2 for production, but are able for comprehension of some high frequency lexical  items.
+4 Stage | Have difficuties activating PF and semantic features in the L1 for both production and comprehension purposes. 
+
+---
+
+class: inverse, center, middle
+
+# Research Questions and Hypothesis
+---
+
+--
+
+#### RQ1. Does verb frequency of lexical activation play a role in the knowledge of DOM in animacy contexts among HS of Spanish?
+a. in productive knowledge? (EPT)
+
+b. in receptive knowledge? (AJT)
+
+--
+
+- Following Putnam and Sanchez (2013) It is hypothesized that higher frequency verbs will provide higher activation of syntactic features needed for DOM along with semantic and phonological features.
+
+--
+
+#### RQ2.Does proficiency play a role in the knowledge of (animacy) DOM with high and low frequency verbs among HS of Spanish?
+a. productive (EPT)
+
+b. receptive (AJT)
+
+--
+
+- Following the Activation approach (Putnam & Sanchez, 2013) proficiency will be an indirect way to measure the levels of activation in the participants L1. It is expected that the Int. HS will be less likely to produce and differentiate between grammatical and ungrammatical DOM than the Adv. HS. since their levels of 
+activation for production and comprehension will be lesser than the Adv. HS.
+
+--
+
+---
+class: inverse, middle, center
+
+# Participants
+
+---
+
+## Participants
+
+--
+
+- Total = 30
+
+--
+
+- Intermediate HS = 10
+
+--
+
+- Advanced HS = 15
+
+--
+
+- Spanish Dominant Controls (SDC) = 15
+
+--
+
+Groups | N | M | SD | Range
+-------|---|---|----|-------
+Spanish Dominant Controls (SDC) | 15 | 47.8 | 1.16 | 46-49
+Advanced heritage speakers (Adv. HS) |	20 | 44.25 |	1.97 | 40-48
+Intermediate heritage speaker (Int. HS) |	10 |	34.4 |	2.57 |	30-38
+
+---
+class: inverse, middle, center
+
+# Methods
+
+---
+
+# Elicited Production Task (EPT)
+
+.pull-left[
+![](ept1.png)]
+.pull-right[
+![](ept2.png)]
+
+
+---
+
+# Acceptability Judgement Task (AJT)
+
+.pull-left[
+![](ajt1.png)]
+.pull-right[
+![](ajt2.png)]
+
+---
+
+class: inverse, middle, center
+
+# Results
+
+---
+
+Fig. 1. Results from the EPT as a function of group (SDC, Adv. HS, Int. HS) DOM production and frequency (frequent, infrequent)
+
+
+![](ept_1.png)
+---
+
+Figure 2.  Results from the AJT as a function of group (SBC, Adv. HS, Int. HS), grammaticality, and verb frequency.
+
+![](ajt_p1.png)
+---
+
+Figure 3. Results from the EPT: Proportion of DOM use as a function of group (SDC, HS. Adv, HS. Int.).
+
+
+![](ept_2.png)
+---
+
+Figure 4. Results from the AJT as a function of group (SBC, Adv. HS, Int. HS) and grammaticality (grammatical, ungrammatical)
+
+![](ajt_2.png)
+---
+
+Figure 5.  Average acceptability judgment rating (AJT) (grammatical) as a function of average DOM production (EPT), frequency (frequent and infrequent) and group (SCS and HS).
+ 
+![](ept_ajt.png)
+---
+
+class: inverse, middle, center
+
+# Discussion
+
+---
+
+--
+
+#### RQ1 Does verb frequency of lexical activation play a role in the knowledge of       DOM in animacy contexts among HS of Spanish? a. in productive knowledge? (EPT) b. in receptive knowledge? (AJT)
+
+--
+
+.blue[Partially confirmed:]
+
+--
+
+- overall more frequent verbs were produced to a greater extent with the DOM. However, the effect of frequency was only present among the Int. HS but not in the SDC or the Adv. HS group. As to the receptive knowledge, there were no effects of frequency in any group. 
+
+--
+
+#### RQ2. Does proficiency play a role in the knowledge of (animacy) DOM with high and low frequency verbs among HS of Spanish?a. productive (EPT) b. receptive (AJT)
+
+--
+
+.blue[Confirmed]
+
+--
+
+- Adv. HS rated higher the grammatical items than ungrammatical ones. However, for Int. HS, this distinction did not seem to be significant, since both grammatical and ungrammatical items were rated similarly.
+
+--
+---
+
+class: inverse, middle, center
+
+# Conclusion
+
+---
+
+# Verb Frequency
+
+--
+
+- Production:Production : .blue[Adv. HS no effects of frequency vs. Int. HS effects of frequency]
+
+--
+
+- Receptive Knowledge : .blue[No effects of frequency for both groups.]
+
+--
+
+(provides support to the Activation approach of Putnam and Sanchez, 2013)
+
+--
+
+# Proficiency
+
+--
+
+- Production : .blue[Adv. HS produce more DOM than Int. HS]
+
+--
+
+- Receptive knowledge : .blue[Advs. HS able to distinguish between grammatical and ungrammatical DOM vs Int. HS unable to distinguish between grammatical and ungrammatical DOM.]
+
+--
+
+(provides support to the Activation approach of Putnam and Sanchez, 2013)
+
+---
+class: title-slide-final, middle
+background-image: url(https://news.rutgers.edu/sites/medrel/modules/features/feature_supporting_assets/footer-logo.png)
+background-size: 400px
+background-position: 9% 15%
+
+# Thanks!
+## I would like to thank to all my participants for providing valuable information in the study of Heritage Language.
+                                                                                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,125 @@
+---
+title: "pa4"
+subtitle: "⚔<br/>with xaringan"
+author: "Julio Cesar Lopez Otero"
+date: "2018/02/27"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+### Load dataset
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+```{r load packages, include = FALSE}
+library(untidydata)
+library(xaringan)
+library(plot3D)
+library(tidyverse)
+library(gvlma)
+```
+
+```{r load dataset, include = FALSE}
+dataset <- read_csv("../data_raw/fricatives.csv")
+```
+
+```{r str data}
+str(dataset)
+```
+---
+### Tidy dataset
+```{r}
+dataset1 <- dataset %>%
+  gather(., key = "category", value = "values", -obs, na.rm = TRUE, convert = FALSE,
+         factor_key = FALSE) %>%
+  separate(., col = category, into = c("phon", "variable"), sep = "_") %>%
+  spread(., key = variable, value = values)
+```
+---
+### Descriptive statistics
+S  | Mean | Standard deviation |  Median
+------------- | ------------- | ------------- | -------------
+COG  | `r mean(dataset$s_cog)`  | `r sd(dataset$s_cog)` | `r median(dataset$s_cog)`
+Skewness  | `r mean(dataset$s_skewness)`  | `r sd(dataset$s_skewness)` | `r median(dataset$s_skewness)`
+
+SH  | Mean | Standard deviation |  Median
+------------- | ------------- | ------------- | -------------
+COG  | `r mean(dataset$sh_cog)`  | `r sd(dataset$sh_cog)` | `r median(dataset$sh_cog)`
+Skewness  | `r mean(dataset$sh_skewness)`  | `r sd(dataset$sh_skewness)` | `r median(dataset$sh_skewness)`
+---
+##### Make a boxplot of center of gravity as a function of phoneme.
+```{r boxplot}
+dataset1 %>%
+  ggplot(., aes(x = phon, y = cog, fill = phon)) +
+  geom_boxplot()
+  labs(x = 'Phoneme', y = 'Center of gravity')
+```
+---
+##### Skewness as a function of phoneme.
+```{r statistical transformation}
+ggplot(data = dataset1, aes(x = phon, y = skewness)) +
+    stat_summary(fun.data = mean_cl_boot, geom = 'pointrange')
+```
+---
+```{r model}
+dataset1_s <- dataset1 %>%
+  filter(., phon == 's')
+
+model1 <- lm(cog ~ skewness, data = dataset1_s)
+
+summary(model1)
+```
+---
+#Residuals:
+
+Min   |    1Q  | Median  |     3Q   |   Max 
+------------- | ------------- | ------------- | -------------  | -------------
+-1060.74 |  -21.72  |  58.96 |  123.00  | 405.24 
+
+#Coefficients:
+
+---   | Estimate | Std. Error | t value | p-vale 
+------------- | ------------- | ------------- | -------------  | -------------     
+(Intercept)  | 8027.2    |  212.3 |  37.80  | < 2e-16 ***
+skewness     | 3029.1    |  259.1 |  11.69 | 7.69e-10 ***
+
+
+Residual standard error | Multiple R-squared | Adjusted R-squared | F-statistic | p-value
+------------- | ------------- | ------------- | ------------- | -------------
+320.1 on 18 degrees of freedom | 0.8836 |  0.8771 | 136.6 on 1 and 18 DF | 7.691e-10
+---
+###### Model's scatterplot
+```{r scatterplot de model1}
+dataset1_s %>%
+  ggplot(., aes(x = cog, y = skewness, color = skewness)) +
+  geom_point() +
+  geom_smooth(method = lm)
+```
+---
+### Model diagnostics
+```{r check model diagnostics}
+### Mean of model's residuals
+mean(model1$residuals)
+### Test for correlation
+cor.test(dataset1_s$cog, model1$residuals)
+```
+---
+```{r}
+### Global Validation of Linear Model Assumptions
+gvmodel <- gvlma(model1)
+summary(gvmodel)
+```
+---
+### GVLMA Plot
+```{r glvmodel}
+plot(gvmodel)
+```
+---
+### Write up the results
+The production data were analyzed using a linear model displaying center of gravity as a function of skewness of the [s] segments. A Pearson's product-moment coefficient was computed to assess the relationship between center of gravity and skewness for the [s] segments and a positive correlation was found (t(18)= 1.5399, , p = .141, cor = 0.341). Finally, a gvlma was run and a level of significance of 0.05 was found.
+On the other hand, the model shows a positive correlation of center of gravity as a function of skewness. Also, it found that the relation of center of gravity as a function of skewness is significant (β = 3029.1, SE = 259.1 t = 11.69, p < .001), with a multiple R-squared of .0884 and an adjusted R-squared of .887.

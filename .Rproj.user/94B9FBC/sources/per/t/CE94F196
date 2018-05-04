@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1525366770811.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2392232513",
+    "id" : "CE94F196",
+    "lastKnownWriteTime" : 1525391424,
+    "last_content_update" : 1525391424217,
+    "path" : "~/Desktop/QPpres/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "cursorPosition" : "19,24",
+        "scrollLine" : "10"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

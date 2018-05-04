@@ -1,0 +1,880 @@
+---
+title: "Feature Re-ranking in the Acquisition of the DOM in Spanish by Speakers of Romanian"
+author: "Julio Cesar Lopez Otero"
+date: "Rutgers University </br> `r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+class: title-slide-final, middle
+background-image: url(https://news.rutgers.edu/sites/medrel/modules/features/feature_supporting_assets/footer-logo.png)
+background-size: 200px
+background-position: 100% 0%
+# What is DOM?
+
+- Differential object marking (DOM) is a phenomenon that lies at the **syntax-semantics interface** of at least 300 languages belonging to different language families (Bossong, 1991). Cross-linguistically, DOM is associated with the prominence of **animacy** and **definiteness** of direct objects (Aissen, 2003).
+--
+
+
+- Aissen (2003) follows a **functional approach** to DOM in several languages and establishes two cross-linguistic scales for animacy and definiteness: 
+
+(1a) Animacy scale: Human > Animate > Inanimate
+
+(1b) Definiteness scale: Personal pronoun > Proper name > Definite NP > Indef. specific NP > Non-specific NP
+
+
+---
+# Previous research
+
+- **L1 acquisition** (Rodríguez-Mondoñedo, 2007)
+
+- L2 acquisition among **English speakers** (Martoccio, 2012; Nediger, Pires & Guijarro-Fuentes, 2015)
+
+- L2 acquisition among **Turkish speakers** (Montrul & Gürel, 2015)
+
+- **Heritage** language acquisition (Montrul & Sanchez-Walker, 2013)
+
+- **L1 attrition** among speakers of Spanish, Hindi, and Romanian in the U.S. (Montrul, Bhatt & Girju, 2015)
+
+- **L3 acquisition** (Giancaspro, Halloran, & Iverson, 2015)
+
+- **The acquisition of the DOM in Spanish by L2 speakers whose L1 has a DOM system ruled by the same features has not been studied.**
+
+---
+
+## Aissen’s (2003) two-dimensional scale for DOM
+![](none.png)
+---
+### Aissen’s (2003) two-dimensional scale for DOM in Spanish
+![](sp.png)
+
+
+
+
+(Leonetti, 2004, 2008; Nediger, Pires & Guijarro-Fuentes, 2015; inter alia)
+---
+### Aissen’s (2003) two-dimensional scale for DOM in Romanian
+![](ro.png)
+
+
+
+
+(Farkas & Von Heusinger, 2003; Mardale, 2008; Ticio & Avram, 2015)
+---
+### The acquisition of the DOM in Spanish by Romanian speakers
+![](both.png)
+---
+class: middle
+### The acquisition of the DOM in Spanish by Romanian speakers
+
+- **Frequency of activation account (Putnam & Sánchez, 2013)** in bilinguals in a contact situation
+
+
+- Stage 1: Transfer or re-assembly of some FFs from the L2 (dominant) grammar to L1 (non-dominant) PF and semantic features. 
+
+
+--
+In this study, the bilinguals should re-assemble the features involved in the DOM from their L1 (dominant) language to their L2 (non-dominant) language. 
+
+---
+class: middle
+
+### The acquisition of the DOM in Spanish by Romanian speakers
+
+
+- **Lexical fossilization account (Jiang, 2000)** in L2 learners
+
+Stage 1: formal specifications (phonological and orthographic)
+
+Stage 2: semantic and syntactic specifications
+
+Stage 3: morphology
+
+
+--
+During this process, L2 learners rely on the specifications of the lexical items of their L1 to compensate for the lack of knowledge of some specifications in their L2 lexicon. Lexicon is said to be **fossilized** if the L2 learner does not go beyond the second stage.
+
+---
+## Research question and hypothesis
+
+- **RQ**: In second language acquisition, does the re-ranking of the constraints that regulate the interpretable features involved in a structure result in cross-linguistic influence? 
+
+
+
+--
+- **H**: **Yes**, in second language acquisition, the re-ranking of constraints that regulate the interpretable features involved in a specific structure results in cross-linguistic influence.
+
+
+
+--
+- For the current study, I predict that Romanian-speaking advanced L2 speakers of Spanish will show signs of cross-linguistic influence as a result of the re-ranking of the constraints that regulate the interpretable features involved in the DOM systems of Spanish and Romanian.
+
+
+
+---
+# Methods: participants
+
+- 18 Romanian-speaking advanced L2ers of Spanish (age range=21-49, M=30.89, SD=8.04) (years of residence range=7-14, M=9.61, SD=2.57) (age of arrival range=15-35, M=20.72, SD=6.75).
+
+- 17 Spanish-speaking monolinguals (age range=19-50, M=27.65, SD=8.72) participated in the study. 
+
+- Both groups live in a monolingual region in Spain. The monolinguals were born in that region.
+---
+# Methods: 
+
+##Screening tasks:
+
+- DELE (Cuza, Pérez-Leroux & Sánchez, 2013) (in Spanish)
+
+- Multilingual Naming Test (MiNT; Gollan, Weissberger, Runnqvist, Montoya, & Cera, 2012). (in Spanish and Romanian for the bilinguals)
+
+
+##Experimental tasks:
+
+- Elicited Production Task (EPT) (in Spanish and Romanian for the bilinguals)
+
+- Oral Acceptability Judgment Task (AJT) (in Spanish and Romanian for the bilinguals)
+
+---
+# Structures under analysis
+![](both_specific.png)
+---
+# Structures under analysis
+![](structures.png)
+---
+# EPT Sample
+
+
+**Preamble**: Nicolás es un niño malo, pero hoy se ha comportado en clase porque...
+
+‘Nicolás is a bad boy, but today he behaved in class because...’
+
+**Prompt**: Nicolás ha escuchado ______. (profesora).
+
+‘Nicolás listened ______ (teacher).’
+--
+
+
+
+**Preamble**: Nicolás este un băiat rău, dar astăzi s-a comportat bine în clasă pentru că...
+
+‘Nicolás is a bad boy, but today he behaved in class because...’
+
+**Prompt**: Nicolás a ascultat ______. (profesoara).
+
+‘Nicolás listened ______ (teacher).’ 
+
+---
+# AJT Sample
+
+**Preamble**: Esas galerías de pintura son muy exclusivas, pero...
+
+‘Those art galleries are very exclusive, but...’
+
+**Prompt**: David ha visitado a esta.
+
+‘David has visited this one.’
+--
+
+
+
+**Preamble**: Acele cămăși sunt foarte greu de găsit, dar...
+
+‘Those shirts are very difficult to find, but...’
+
+**Prompt**: Manuel a găsit-o pe aceea.
+
+‘Manuel has found this one’. 
+--
+
+
+
+
+
+**Likert scale**: 1 (muy raro ‘very odd’), 2 (raro ‘odd’), 3 (ni bien ni mal ‘neither good or bad’), 4 (bien ‘good’), 5 (completamente bien ‘completely good).Expected response: 4 or 5. 
+---
+# Statistical Analysis
+
+- Generalized linear mixed-effects model.
+
+- EPT: The model included response (use of DOM, non-use of DOM) as the dependent variable, and animacy (animate, inanimate) and definiteness (determiner + noun DP or demonstrative pronoun DP) as fixed factors.
+
+- AJT: The model included response (1 through 5) as the dependent variable, and animacy (animate, inanimate) and definiteness (determiner + noun DP or demonstrative pronoun DP) as fixed factors.
+
+- Significance of main effects and all possible interactions were assessed using hierarchical partitioning of the variance via nested model comparisons. 
+---
+# Results: EPT
+![](prod_p1.png)
+---
+# Results: AJT
+![](ajt_p2.png)
+---
+# To summarize
+
+####**EPT**: 
+
+Differences were found in both divergent distributions: **D + human N DPs** (p<.002) and **Dem inanimate Pron DPs** (p<.001). 
+
+In convergent distributions, differences were found in **Dem human Pron DPs** (p=.014), but not in D + inanimate N DPs (p=.934). 
+
+####**AJT**: 
+
+Differences were found only in **ungrammatical** contexts. 
+
+In both divergent distributions, in **ungrammatical D+ animate N DPs** (p<.001) and in **ungrammatical Dem inanimate Pron DPs** (p<.001). 
+
+In convergent distributions, significant differences between the groups were found in **ungrammatical D + inanimate N DPs** (p<.009), but not in ungrammatical Dem human Pron DPs (p=0.219). 
+
+**Asymmetry** in the convergent distributions.
+---
+# Discussion
+
+**RQ**: In second language acquisition, does the re-ranking of interpretable features involved in a structure result in cross-linguistic influence?
+
+**H**: **Yes**, in second language acquisition, the re-ranking of the interpretable features involved in a specific structure results in cross-linguistic influence. 
+
+--
+##**CONFIRMED**
+
+--
+Some convergent distributions show signs of cross-linguistic influence too, against expectations.
+---
+# Discussion
+
+- **Frequency of activation account (Putnam & Sánchez, 2013)**: they have successfully assembled the functional features involved in the DOM of their dominant language to the phonological form of their less dominant language. However, they are in the process of re-ranking the constraints that regulate the features to match the DOM in Spanish. Specifically, they are in the process of ranking the constraint the regulates the feature animacy over the the constraint that regulates the feature definiteness due to the constant activation of both their languages.
+
+- **Lexical fossilization account (Jiang, 2000)**: they seem to be still in the second stage of lexicon acquisition, in which they acquire the syntactic and semantic specifications of the lexicon. They have acquired that the DOM in Spanish is ruled by the features animacy and definiteness, as the DOM in their L1; however, it can be argued that they are in the process of acquiring the lexical specifications of demonstrative pronoun objects in Spanish, which, unlike in Romanian, are sensitive to an animacy scale.
+---
+# Conclusion
+
+- The process of re-ranking of constraints that regulate interpretable features involved in a structure results in cross-linguistic influence.
+
+- A monolingual Romanian-speaking group is needed to claim there exists cross-linguistic influence into the L1.
+
+- Further research on the acquisition of other structures requiring the re-ranking of interpretable features is needed to test this hypothesis (e.g., Spanish speakers learning Romanian as an L2).
+---
+class: center, middle
+#¡Gracias!
+#Mulțumesc!
+
+I would like to thank all my participants for their collaboration.
+---
+# Results: Romanian EPT
+![](p_ro_p1.png)
+---
+# Results: Romanian AJT
+![](ajt_ro_p2.png)
+---
+Appendix B: Elicited Production Task in Spanish
+
+Experimental items per condition
+
+1)	Determiner + animate noun DP
+
+a.	El contrato de alquiler de Manuel iba a terminar, pero ya no porque… 
+
+Manuel ha convencido _____ (propietaria).
+
+b.	David estaba un poco triste, pero ya no porque…
+
+David ha visitado _____ (novia).
+
+c.	Antonio está muy contento porque…
+
+Antonio ha conocido _____ (reina).
+
+d.	Nicolás es un niño malo, pero hoy se ha comportado en clase porque…
+
+Nicolás ha escuchado _____ (profesora).
+
+e.	Miguel está muy alegre hoy porque…
+
+Miguel ha abrazado _____ (cantante).
+
+---
+2)	Determiner + inanimate noun DP
+
+a.	Manuel está muy feliz hoy porque…
+
+Manuel ha encontrado _____ (cartera).
+
+b.	David es muy religioso y hoy domingo está contento porque…
+
+David ha visitado _____ (catedral).
+
+c.	Antonio está orgulloso de sus clases de arte porque…
+
+Antonio ha reconocido _____ (pintura).
+
+d.	Nicolás se ha emocionado porque…
+
+Nicolás ha escuchado _____ (melodía).
+
+e.	Miguel es travieso y rebelde porque…
+
+Miguel ha tocado _____ (escultura).
+
+---
+3)	Animate demonstrative pronoun DP
+
+a.	Al director de cine le gustó esa actriz, pero al final…
+
+El director ha contratado _____ (esta).
+
+b.	A David le gustó esa doctora, pero hoy…
+
+David ha visitado _____ (esta).
+
+c.	Esas cantantes son muy difíciles de encontrar, pero al final…
+
+Antonio ha encontrado _____ (esta).
+
+d.	Esas bailarinas famosas son difíciles de conocer, pero hoy…
+
+Nicolás ha abrazado _____ (esta).
+
+e.	Esas presentadoras de televisión son difíciles de ver por las calles, pero hoy…
+
+Miguel ha visto _____ (esta).
+
+---
+4)	Inanimate demonstrative pronoun DP
+
+c.	Esas camisas son muy complicadas de encontrar, pero…
+
+Manuel ha encontrado _____ (esa).
+
+d.	Esas galerías de pintura son muy exclusivas, pero…
+
+David ha visitado _____ (esta).
+
+e.	Esas pinturas son muy difíciles de reconocer, pero…
+
+Antonio ha reconocido _____ (esta).
+
+f.	Esas canciones antiguas son muy difíciles de tocar, pero…
+
+Nicolás ha tocado _____ (esta).
+
+g.	Esas películas extranjeras son muy raras de ver, pero…
+
+Miguel ha visto _____ (esa).
+
+---
+Appendix C: Elicited Production Task in Romanian
+
+Experimental items per condition
+
+1)	Determiner + animate noun DP
+
+a.	Contractul de închiriere al lui Manuel urma să se încheie, dar nu se va mai încheia pentru că...
+
+Manuel a convins _____ (proprietara). 
+
+b.	David a fost un pic trist, dar nu mai este pentru că... 
+
+David a vizitat _____ (iubita lui). 
+
+c.	Antonio este foarte fericit pentru că... 
+
+Antonio a întâlnit _____ (regina). 
+
+d.	Nicolás este un băiat rău, dar astăzi s-a comportat bine în clasă pentru că... 
+
+Nicolás a ascultat _____ (profesoara). 
+
+e.	Miguel este foarte bucuros astăzi pentru că ... 
+
+Miguel a îmbrățișat _____ (cântăreața). 
+
+---
+2)	Determiner + inanimate noun DP
+
+a.	Manuel este foarte fericit azi pentru că... 
+
+Manuel a găsit _____ (cheia).
+
+b.	David este foarte religios și astăzi, duminică este foarte fericit pentru că... 
+
+David a vizitat _____ (catedrala).
+
+c.	Antonio se mândrește cu cursurile sale de artă, deoarece... 
+
+Antonio a recunoscut _____ (pictura).
+
+d.	Nicolás este încântat deoarece... 
+
+Nicolás a ascultat _____ (melodia). 
+
+e.	Miguel e obraznic pentru că... 
+
+Miguel a atins _____ (sculptura).
+
+---
+3)	Animate demonstrative pronoun DP
+
+a.	Regizorului de film îi plăcea acea actrița, dar în cele din urmă... 
+
+Regizorul a angajat _____ (aceasta). 
+
+b.	Lui David îi plăcea acea doctora, dar astăzi... 
+
+David a vizitat _____ (aceasta). 
+
+c.	Acele cântărețe sunt foarte greu de întâlnit, dar în cele din urmă... 
+
+Antonio a întâlnit _____ (aceasta). 
+
+d.	Aceste dansatoare celebre sunt foarte greu de cunoscut, dar astăzi... 
+
+Nicolás a îmbrățișat _____ (aceasta). 
+
+e.	Acele prezentatoare de televiziune sunt greu de văzut pe stradă, dar astăzi... 
+Miguel a văzut _____ (aceasta). 
+
+---
+4)	Inanimate demonstrative pronoun DP
+
+a.	Acele cămăși sunt foarte greu de găsit, dar... 
+
+Manuel a găsit _____ (aceea). 
+
+b.	Acele galerii de pictură sunt foarte exclusiviste, dar... 
+
+David a vizitat _____ (aceea). 
+
+c.	Aceste picturi sunt foarte greu de recunoscut, dar... 
+
+Antonio a recunoscut _____ (aceasta). 
+
+d.	Melodiile vechi sunt foarte greu de cântat, dar... 
+
+Nicolás a cântat _____ (aceasta).
+
+e.	Acele fotografii străine sunt foarte greu de văzut, dar...
+
+Miguel a văzut _____ (aceea). 
+
+---
+Appendix D: Acceptability Judgment Task in Spanish
+
+Experimental items per condition – Battery A
+
+1)	Determiner + animate noun DP with DOM
+
+c.	El contrato de alquiler de Manuel iba a terminar, pero ya no porque…
+
+Manuel ha convencido a la propietaria.
+
+b.	David estaba un poco triste, pero ya no porque…
+
+David ha visitado a su novia.
+
+2)	Determiner + animate noun DP without DOM
+
+a.	Antonio está muy contento porque…
+
+Antonio ha conocido la reina.
+
+d.	Nicolás es un niño malo, pero hoy se ha comportado en clase porque…
+
+Nicolás ha escuchado la profesora.
+
+e.	Miguel está muy alegre hoy porque…
+
+Miguel ha abrazado la cantante.
+
+---
+3)	Determiner + inanimate noun DP with DOM
+
+a.	Manuel está muy feliz hoy porque…
+
+Manuel ha encontrado a la cartera.
+
+b.	David es muy religioso y hoy domingo está contento porque…
+
+David ha visitado a la catedral.
+
+c.	Antonio está orgulloso de sus clases de arte porque…
+
+Antonio ha reconocido a la pintura.
+
+4)	Determiner + inanimate noun DP without DOM
+
+a.	Nicolás se ha emocionado porque…
+
+Nicolás ha escuchado la melodía.
+
+b.	Miguel es travieso y rebelde porque…
+
+Miguel ha tocado la escultura.
+
+---
+5)	Animate demonstrative pronoun DP with DOM
+
+a.	Al director de cine le gustó esa actriz, pero al final…
+
+El director ha contratado a esta.
+
+b.	A David le gustó esa doctora, pero hoy…
+
+David ha visitado a esta.
+c.	Esas cantantes son muy difíciles de encontrar, pero al final…
+
+Antonio ha encontrado a esta.
+
+6)	Animate demonstrative pronoun DP without DOM
+
+a.	Esas bailarinas famosas son difíciles de conocer, pero hoy…
+
+Nicolás ha abrazado esta.
+
+b.	Esas presentadoras de televisión son difíciles de ver por las calles, pero hoy…
+
+Miguel ha visto esta.
+
+---
+7)	Inanimate demonstrative pronoun DP with DOM
+
+a.	Esas camisas son muy complicadas de encontrar, pero…
+
+Manuel ha encontrado a esa.
+
+b.	Esas galerías de pintura son muy exclusivas, pero…
+
+David ha visitado a esta.
+
+8)	Inanimate demonstrative pronoun DP without DOM
+
+a.	Esas pinturas son muy difíciles de reconocer, pero…
+
+Antonio ha reconocido esta.
+
+b.	Esas canciones antiguas son muy difíciles de tocar, pero…
+
+Nicolás ha tocado esta.
+
+c.	Esas películas extranjeras son muy raras de ver, pero…
+
+Miguel ha visto esa.
+
+---
+Experimental items per condition – Battery B
+
+1)	Determiner + animate noun DP with DOM
+
+a.	Antonio está muy contento porque…
+
+Antonio ha conocido a la reina.
+
+b.	Nicolás es un niño malo, pero hoy se ha comportado en clase porque…
+
+Nicolás ha escuchado a la profesora.
+
+c.	Miguel está muy alegre hoy porque…
+
+Miguel ha abrazado a la cantante.
+
+2)	Determiner + animate noun DP without DOM
+
+a.	El contrato de alquiler de Manuel iba a terminar, pero ya no porque…
+
+Manuel ha convencido la propietaria.
+
+b.	David estaba un poco triste, pero ya no porque…
+
+David ha visitado su novia.
+
+---
+3)	Determiner + inanimate noun DP with DOM
+
+a.	Nicolás se ha emocionado porque…
+
+Nicolás ha escuchado a la melodía.
+
+b.	Miguel es travieso y rebelde porque…
+
+Miguel ha tocado a la escultura.
+
+4)	Determiner + inanimate noun DP without DOM
+
+a.	Manuel está muy feliz hoy porque…
+
+Manuel ha encontrado la cartera.
+
+b.	David es muy religioso y hoy domingo está contento porque…
+
+David ha visitado la catedral.
+
+c.	Antonio está orgulloso de sus clases de arte porque…
+
+Antonio ha reconocido la pintura.
+---
+5)	Animate demonstrative pronoun DP with DOM
+
+a.	Esas bailarinas famosas son difíciles de conocer, pero hoy…
+
+Nicolás ha abrazado a esta.
+
+b.	Esas presentadoras de televisión son difíciles de ver por las calles, pero hoy…
+
+Miguel ha visto a esta.
+
+6)	Animate demonstrative pronoun DP without DOM
+
+a.	Al director de cine le gustó esa actriz, pero al final…
+
+El director ha contratado esta.
+
+b.	A David le gustó esa doctora, pero hoy…
+
+David ha visitado esta.
+
+c.	Esas cantantes son muy difíciles de encontrar, pero al final…
+
+Antonio ha encontrado esta.
+
+---
+7)	Inanimate demonstrative pronoun DP with DOM
+
+a.	Esas pinturas son muy difíciles de reconocer, pero…
+
+Antonio ha reconocido a esta.
+
+b.	Esas canciones antiguas son muy difíciles de tocar, pero…
+
+Nicolás ha tocado a esta.
+
+c.	Esas películas extranjeras son muy raras de ver, pero…
+
+Miguel ha visto a esa.
+
+8)	Inanimate demonstrative pronoun DP without DOM
+
+a.	Esas camisas son muy complicadas de encontrar, pero…
+
+Manuel ha encontrado esa.
+
+b.	Esas galerías de pintura son muy exclusivas, pero…
+
+David ha visitado esta.
+
+---
+Appendix E: Acceptability Judgment Task in Romanian
+
+Experimental items per condition – Battery A
+
+1)	Determiner + animate noun DP with DOM
+
+a.	Antonio este foarte fericit pentru că... 
+
+Antonio a întâlnit-o pe regina. 
+
+b.	Nicolás este un băiat rău, dar astăzi s-a comportat bine în clasă pentru că... 
+
+Nicolás a ascultat-o pe profesoara. 
+
+c.	Miguel este foarte bucuros astăzi pentru că ... 
+
+Miguel a îmbrățișat-o pe cântăreața. 
+
+2)	Determiner + animate noun DP without DOM
+
+a.	Contractul de închiriere al lui Manuel urma să se încheie, dar nu se va mai încheia pentru că...
+
+Manuel a convins proprietara. 
+
+b.	David a fost un pic trist, dar nu mai este pentru că... 
+
+David a vizitat iubita lui. 
+
+---
+3)	Determiner + inanimate noun DP with DOM
+
+a.	Nicolás este încântat deoarece... 
+
+Nicolás a ascultat-o pe melodia. 
+
+b.	Miguel e obraznic pentru că... 
+
+Miguel a atins-o pe sculptura.
+
+4)	Determiner + inanimate noun DP without DOM
+
+a.	Manuel este foarte fericit azi pentru că... 
+
+Manuel a găsit cheia.
+
+b.	David este foarte religios și astăzi, duminică este foarte fericit pentru că...
+
+David a vizitat catedrala.
+
+c.	Antonio se mândrește cu cursurile sale de artă, deoarece... 
+
+Antonio a recunoscut pictura.
+
+---
+5)	Animate demonstrative pronoun DP with DOM
+
+a.	Aceste dansatoare celebre sunt foarte greu de cunoscut, dar astăzi... 
+
+Nicolás a îmbrățișat-o pe aceasta. 
+
+b.	Acele prezentatoare de televiziune sunt greu de văzut pe stradă, dar astăzi...
+
+Miguel a văzut-o pe aceasta. 
+
+6)	Animate demonstrative pronoun DP without DOM
+
+a.	Regizorului de film îi plăcea acea actrița, dar în cele din urmă... 
+
+Regizorul a angajat aceasta. 
+
+b.	Lui David îi plăcea acea doctora, dar astăzi... 
+
+David a vizitat aceasta. 
+
+
+c.	Acele cântărețe sunt foarte greu de întâlnit, dar în cele din urmă... 
+
+Antonio a întâlnit aceasta. 
+
+
+---
+
+7)	Inanimate demonstrative pronoun DP with DOM
+
+a.	Aceste picturi sunt foarte greu de recunoscut, dar... 
+
+Antonio a recunoscut-o pe aceasta. 
+
+b.	Melodiile vechi sunt foarte greu de cântat, dar... 
+
+Nicolás a cântat-o pe aceasta.
+
+c.	Acele fotografii străine sunt foarte greu de văzut, dar...
+
+Miguel a văzut-o pe aceea.
+
+8)	Inanimate demonstrative pronoun DP without DOM
+
+a.	Acele cămăși sunt foarte greu de găsit, dar... 
+
+Manuel a găsit aceea. 
+
+b.	Acele galerii de pictură sunt foarte exclusiviste, dar... 
+
+David a vizitat aceea.
+
+---
+Experimental items per condition – Battery B
+
+1)	Determiner + animate noun DP with DOM
+
+a.	Contractul de închiriere al lui Manuel urma să se încheie, dar nu se va mai încheia pentru că...
+
+Manuel a convins-o pe proprietara. 
+
+b.	David a fost un pic trist, dar nu mai este pentru că... 
+
+David a vizitat-o pe iubita lui. 
+
+2)	Determiner + animate noun DP without DOM
+
+a.	Antonio este foarte fericit pentru că... 
+
+Antonio a întâlnit regina. 
+
+b.	Nicolás este un băiat rău, dar astăzi s-a comportat bine în clasă pentru că...
+
+Nicolás a ascultat profesoara. 
+
+c.	Miguel este foarte bucuros astăzi pentru că ... 
+
+Miguel a îmbrățișat cântăreața. 
+
+---
+
+3)	Determiner + inanimate noun DP with DOM
+
+a.	Manuel este foarte fericit azi pentru că... 
+
+Manuel a găsit-o pe cheia.
+
+b.	David este foarte religios și astăzi, duminică este foarte fericit pentru că...
+
+David a vizitat-o pe catedrala.
+
+c.	Antonio se mândrește cu cursurile sale de artă, deoarece... 
+
+Antonio a recunoscut-o pe pictura.
+
+4)	Determiner + inanimate noun DP without DOM
+
+a.	Nicolás este încântat deoarece... 
+
+Nicolás a ascultat melodia. 
+
+b.	Miguel e obraznic pentru că... 
+
+Miguel a atins sculptura.
+
+---
+5)	Animate demonstrative pronoun DP with DOM
+
+a.	Regizorului de film îi plăcea acea actrița, dar în cele din urmă... 
+
+Regizorul a angajat-o pe aceasta. 
+
+b.	Lui David îi plăcea acea doctora, dar astăzi... 
+
+
+David a vizitat-o pe aceasta. 
+
+
+c.	Acele cântărețe sunt foarte greu de întâlnit, dar în cele din urmă... 
+
+Antonio a întâlnit-o pe aceasta. 
+
+6)	Animate demonstrative pronoun DP without DOM
+
+a.	Aceste dansatoare celebre sunt foarte greu de cunoscut, dar astăzi... 
+
+Nicolás a îmbrățișat aceasta. 
+
+b.	Acele prezentatoare de televiziune sunt greu de văzut pe stradă, dar astăzi... 
+
+Miguel a văzut aceasta. 
+
+---
+7)	Inanimate demonstrative pronoun DP with DOM
+
+a.	Acele cămăși sunt foarte greu de găsit, dar... 
+
+Manuel a găsit-o pe aceea. 
+
+b.	Acele galerii de pictură sunt foarte exclusiviste, dar... 
+
+David a vizitat-o pe aceea.
+
+8)	Inanimate demonstrative pronoun DP without DOM
+
+a.	Aceste picturi sunt foarte greu de recunoscut, dar... 
+
+Antonio a recunoscut aceasta. 
+
+b.	Melodiile vechi sunt foarte greu de cântat, dar... 
+
+Nicolás a cântat aceasta.
+
+c.	Acele fotografii străine sunt foarte greu de văzut, dar...
+
+Miguel a văzut aceea.

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1525371678535.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "397679555",
+    "id" : "7F98B730",
+    "lastKnownWriteTime" : 1525371734,
+    "last_content_update" : 1525371734166,
+    "path" : "~/Downloads/pa5_answers/index.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "60,40",
+        "scrollLine" : "56"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
